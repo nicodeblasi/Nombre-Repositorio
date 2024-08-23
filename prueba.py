@@ -1,3 +1,3 @@
-nombre= "papu"
-apellido= "gomez"
+nombre= "Douser"
+apellido= "Nossa"
 print(f"Hola ", nombre, apellido)
